@@ -56,6 +56,8 @@ Tehdään tämän jälkeen laitteistopivitys. Päivityksessä meni noin 2 minuut
 
 Nyt voimme asentaa micron. Annetaan seuraava komento:
 
+    sudo nala install micro
+
 ![](/2_Viikko/kuvat/4.png)
 
 Micro asentui alle 10 sekunnissa.
@@ -167,7 +169,9 @@ Ohjelma toimii halutulla tavalla.
 
 Lähde:
 Tmux cheat sheet. Luettu 29.01.2024. Luettavissa: https://tmuxcheatsheet.com/
+
 Aaron Kili. Tecmint. Wikit - A Command Line Tool to Search Wikipedia on Linux. Luettu 29.01.2024. Luettavissa: https://www.tecmint.com/wikipedia-commandline-tool/
+
 Chafa manual
 
 ## FHS 
