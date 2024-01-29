@@ -54,15 +54,16 @@ Tehdään tämän jälkeen laitteistopivitys. Päivityksessä meni noin 2 minuut
 
 ![](/2_Viikko/kuvat/3.png)
 
+
+![](/2_Viikko/kuvat/4.png)
+
 Nyt voimme asentaa micron. Annetaan seuraava komento:
 
     sudo nala install micro
 
-![](/2_Viikko/kuvat/4.png)
+![](/2_Viikko/kuvat/5.png)
 
 Micro asentui alle 10 sekunnissa.
-
-![](/2_Viikko/kuvat/5.png)
 
 Kokeillaan nyt käyttää microa. Mennään Documents-kansioon ja tehdään siellä mikrolla muutos edellisviikon helloworld-tiedostoon.
 
