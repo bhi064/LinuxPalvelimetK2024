@@ -176,3 +176,7 @@ Ja sitten palomuuri:
 Jätetään palomuurin konfigurointi tekemättä.
 
 Suljetaan nyt virtuaalikone ja jätetään se odottamaan tiistaita varten.
+
+Yhteiset lähteet:
+
+Karvinen, T. Linux Palvelimet 2024 Alkukevät. Tehtävänannot. Luettavissa :https://terokarvinen.com/2024/linux-palvelimet-2024-alkukevat/. Luettu maaliskuu 2024.
